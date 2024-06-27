@@ -1,0 +1,5 @@
+# Movie Review Sentiment Analysis
+
+This project is a web application built using Streamlit that predicts the sentiment of movie reviews, classifying them as either positive or negative. Users can input their movie reviews into the app, which utilizes a pre-trained machine learning model to provide instant sentiment analysis. The machine learning model has been trained using the TF-IDF vectorizer and a classifier, ensuring accurate and efficient predictions.
+
+The project leverages several key technologies: Python for the backend logic, Pandas for data manipulation, Scikit-learn for the machine learning model, Streamlit for the web interface, and Pickle for loading the pre-trained model and scaler. This combination of tools provides a robust and user-friendly application for sentiment analysis of movie reviews.
